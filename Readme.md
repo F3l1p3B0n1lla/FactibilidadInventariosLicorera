@@ -59,7 +59,7 @@ Se espera obtener un pronóstico estimado de la demanda, adicional al indicador 
   📂 _BegInvFINAL12312016.csv:_ Fecha en la cual ingresa a el inventario, tienda, ciudad, marca, descripción, tamaño, cantidad y precio.
 
 ## 🔄 Metodología de Trabajo
-_Se realizó el trabajo con la metodología ágil siguiento en marco de Scrum. Se utilizó GitHub para el seguimiento de las actividades._ <br>
+_Se maneja un marco de trabajo agil (Scrum) para la gestión del proyecto "Análisis de factibilidad de inventarios de la distribuidora de licores "Elixir Emporium"". Se utilizó GitHub para el seguimiento de las actividades bajo el marco de trabajo Scrum, el cual cuenta con dos Sprints y un total de 11 PBI(Product Backlog Items)._ <br>
 El siguiente link, muestra el Roadmap del proyecto:
 [Roadmap del proyecto](https://github.com/users/F3l1p3B0n1lla/projects/1/views/4)
 
