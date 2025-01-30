@@ -4,7 +4,7 @@ _Este proyecto tiene como objetivo abordar los desafíos que enfrenta la empresa
 _A través del análisis de datos históricos, herramientas como SQL Server, Python y Power BI se utilizarán para optimizar niveles de inventario, prever la demanda y mejorar la eficiencia operativa. El resultado incluirá un dashboard interactivo con insights clave para la toma de decisiones estratégicas._
 
 <p align="center">
-<img src="fondo4.png"  height=300>
+<img src="Sprint1/fondo4.png"  height=300>
 </p>
 
 ## 🤝 Integrantes de JBR ANALYTICS GROUP
@@ -18,7 +18,7 @@ _A través del análisis de datos históricos, herramientas como SQL Server, Pyt
 ### Logo
 
 <p align="center">
-  <img src="LogoLicores.png" alt="Logo" width="350" height="350">
+  <img src="Sprint1/LogoLicores.png" alt="Logo" width="350" height="350">
 </p>
 
 ## 🏢 Descripción de la Empresa
