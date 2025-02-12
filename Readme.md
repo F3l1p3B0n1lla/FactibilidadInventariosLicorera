@@ -59,9 +59,12 @@ Se espera obtener un pronóstico estimado de la demanda, adicional al indicador 
   📂 _BegInvFINAL12312016.csv:_ Fecha en la cual ingresa a el inventario, tienda, ciudad, marca, descripción, tamaño, cantidad y precio.
 
 ## 🔄 Metodología de Trabajo
-_Se realizó el trabajo con la metodología ágil siguiento en marco de Scrum. Se utilizó GitHub para el seguimiento de las actividades._ <br>
-El siguiente link, muestra el Roadmap del proyecto:
+_Se realizó el trabajo bajo el marco de trabajo SCRUM. Se utilizó GitHub para definir los PBI's(Product Backlog Items) que se definieron para el proyecto, adicional se realiza el control y el seguimiento de las actividades diariamente con el fin de ver los avances a las actividades descritas en cada sprint con la finalidad de cumplir las fechas estimadas de ejecucion._ <br>
+El siguiente link, muestra el Roadmap del proyecto, por si se requiere observar el marco de trabajo:
 [Roadmap del proyecto](https://github.com/users/F3l1p3B0n1lla/projects/1/views/4)
+
+## 🔄 ETL
+_Para el proyecto inicialmente se trabajan con 6 archivos en formato CSV los cuales contienen la data primaria, la cual posteriormente se revisa y se limpia(Eliminan valores nulos y filas duplicadas, revision de la concordancia de la informacion, renombrar las columnas ) para finalmente extraer la informacion relevante para dar cumplimiento a los objetivos propuestos inicialmente, esta operacion se efectua por medio de funciones en Python, adicionalmente se transforma la informacion que genere valor para el analisis posterior, transformando los archivos CSV en archivos Parquet para que sea menos pesada la base de datos a analizar, estos archivos van a un bucket que se creo, el cual lleva el nombre de Datos Limpios.
 
 ## 🔲 Diagrama Entidad-Relacion
 "AQUI COLOCAREMOS EL LINK O LA IMAGEN DEL DIAGRAMA"
